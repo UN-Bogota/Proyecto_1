@@ -3,3 +3,7 @@ In this projectc the members of this group will develop a innovation project abo
 
 WELCOME!
 We will work together for a better world 
+Collaborators:
+-Hernan Mojica
+-Julian Olejua
+
