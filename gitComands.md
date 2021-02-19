@@ -46,7 +46,7 @@ git pull origin main
 git merge NUEVARAMA
 
 10) publicar master
-git push origin master		
+git push origin main
 
 
 *******************************************************************************
