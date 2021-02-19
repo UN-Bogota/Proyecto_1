@@ -4,4 +4,4 @@ In this projectc the members of this group will develop a innovation project abo
 WELCOME!
 We will work together for a better world 
 
-Fuck up muthefuckers, I shit on your comments
+I shit on your comments
